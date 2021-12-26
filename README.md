@@ -1,8 +1,8 @@
 # Kickstarting with Excel
 ## Overview of Project and Purpose
-In this project, we were tasked with analyzing the relationship between the launch date of a campaign and the outcome of the campaign as well as the relationship between the outcome a campaign and the goal amount. Specifically, we used to sub-category of "plays" to analyze the various outcomes of campaigns.
+In this project, we were tasked with analyzing the relationship between the launch date of a campaign and the outcome of the campaign using the category of "Theater" as well as the relationship between the outcome a campaign and the goal amount using to sub-category of "plays" to analyze the various outcomes of campaigns.
 ### Purpose
-The purpose of this analysis was to see in which goal amount range had the most successful, failed, and canceled campaigns in terms of percenatge when using the sub-category of "plays."
+The purpose of this analysis was to see in which goal amount range had the most successful, failed, and canceled campaigns in terms of percenatge when using the sub-category of "plays," as well as to see which month was best to launch a new campaign under the category of "theater"
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To analyze the relationship between the outcomes of campaigns and the luanch date, I needed to create a pivot table which showed successful, failed, canceled, and grand total of campaigns broken down my months. After filtering the data by the category of theater, the pivot chart looked like this:
@@ -22,4 +22,4 @@ One conclusion that can be drawn for the funding goal and outcome comparison is 
 
 While we are able to analyze the given data to help us answer some questions, we still need to consider some limitations of the dataset such as outliers as they might an impact on overall analysis if not excluded.
 
-While the two line graphs to offer some insight, a bar graph might be a better visualization to help others understand what they are looking better. We could also create another table for Outcome and Launch Date for the "theater" category to show the percentage of successful or failed campaigns for a specific month. This could give us even more a decisive conclusion.
+While the two line graphs do offer some insight, a bar graph might be a better visualization to help others understand what they are looking better. We could also create another table for Outcome and Launch Date for the "theater" category to show the percentage of successful or failed campaigns for a specific month. This could give us even more a decisive conclusion.
